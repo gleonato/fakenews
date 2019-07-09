@@ -1,8 +1,8 @@
 # fakenews 
 
 Authors: Gustavo Leonato e Daniel Miloca
-Corpus: https://github.com/several27/FakeNewsCorpus
-Corpus .br: https://github.com/roneysco/Fake.br-Corpus
+* Corpus: https://github.com/several27/FakeNewsCorpus
+* Corpus .br: https://github.com/roneysco/Fake.br-Corpus
 
 Link para Exemplos de hipoteses no moodle (para referencia): http://moodle.dainf.ct.utfpr.edu.br/mod/assign/view.php?id=32655
 
