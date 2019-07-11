@@ -11,8 +11,8 @@ Link para Exemplos de hipoteses no moodle (para referencia): http://moodle.dainf
 ### Inicial - Questões gerais (Analise exploratória)
 
 * Pergunta: Quais são os maiores publicadores (autores) de noticias por tipo de noticia ?
-* Hipotese: 
-* Dados:
+* Hipotese: Há alguns autores que publicam mais fake news do que outros.
+* Dados: Autor, tipo de noticia (type)
 
 * Pergunta: Quais são as palavras mais mencionadas no corpus ? - WORD CLOUD
 * Hipotese:
@@ -20,16 +20,18 @@ Link para Exemplos de hipoteses no moodle (para referencia): http://moodle.dainf
 
 ### Linha 1 - Politica
 
-* Pergunta: Quem são os agentes políticos mais mencionados nas noticias?
-* Hipotese:
-* Dados:
+* Pergunta: Quem são os agentes políticos mais mencionados nas noticias falsas ?
+* Hipotese: Alguns políticos são mais mencionados em fake news que os demais.
+* Dados: Content, Lista de agentes politicos (ex.: Trump, Angela, Obama)
 
-* Pergunta: Dos top 3 mais mencionados, qual o tipo  de noticia (type) predominante ?
-* Hipotese:
-* Dados:
+* Pergunta: Quais são os maiores publicadores (autores) de noticias por tipo de noticia ?
+* Hipotese: Há alguns autores que publicam mais fake news do que outros.
+* Dados: Autor, tipo de noticia (type)
 
-### Linha 2 - Conspiração
+* Pergunta: Quais são os top-10 sites que mais divulgam noticias falsas ?
+* Hipotese: Existem sites que geram mais conteúdo fake do que outros.
+* Dados: url, type
 
-* Pergunta:
-* Hipotese:
-* Dados:
+* Pergunta: Dos top 3, quais os sites que produzem mais conteúdo, qual o tipo de notícia (type):
+* Hipóteses: os sites xx,xx,xx falam mais notícias verdadeiras sobre o político aaa e mais falsas sobre o bbbb, enquanto que os sites yyy,yyyy divulgam mais notícias verdadeiras sobre o político bbbb e mais falsas sobre o político aaaa.
+* Dados: conteúdos, tipo das notícias, dicionário contendo pessoas citadas.
