@@ -38,3 +38,13 @@ Link para Exemplos de hipoteses no moodle (para referencia): http://moodle.dainf
 * Pergunta: Dos top 3, quais os sites que produzem mais conteúdo, qual o tipo de notícia (type):
 * Hipóteses: os sites xx,xx,xx falam mais notícias verdadeiras sobre o político aaa e mais falsas sobre o bbbb, enquanto que os sites yyy,yyyy divulgam mais notícias verdadeiras sobre o político bbbb e mais falsas sobre o político aaaa.
 * Dados: conteúdos, tipo das notícias, dicionário contendo pessoas citadas.
+
+## Próximos passos: 
+
+A. Data preparation
+
+1) Carregar .csv em df (Chunk) - inicialmente com Type=Fake e type=reliable (testar tamanho do chunk processavel localmente) - Daniel
+2) Tokenizar coluna CONTENT por TYPE - Daniel
+
+2) Classificador NAIVE BAYES /REDE NEURAL - Gustavo
+3) Analise de sentimento (dicionario) - A definir
